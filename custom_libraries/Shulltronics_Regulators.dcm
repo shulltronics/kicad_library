@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3049_L78L33
+D 3.3V Linear Regulator 100mA, 30V Input, TO-92 Package
+F https://www.st.com/resource/en/datasheet/l78l.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3012_Graphic_LCD_128x64
+D Sparkfun KS0108 Graphic LCD
+F https://www.sparkfun.com/datasheets/LCD/GDM12864H.pdf
+$ENDCMP
+#
+$CMP 3017_7seg_Display
+D Seven Segment Display, YLW-GRN, 0.3 Inch
+F http://www.inolux-corp.com/datasheet/Display/Through-Hole-Display/SingleDigit/INND-TS30%20Series_V1.0.pdf
+$ENDCMP
+#
+$CMP 3019_Graphic_LCD_160x104
+D Electronic Assembly FSTN(-) Display, 160x104 dots
+F https://www.mouser.com/datasheet/2/127/dogxl160-7e-4693.pdf
+$ENDCMP
+#
+$CMP 3021_5082-7730
+D Seven Segment Display, Red 7.6mm, Common Anode
+F http://pdf.datasheet.live/9c66ff50/agilent.com/5082-7730.pdf
+$ENDCMP
+#
+$CMP 3023_FSD
+D Fourteen Segment Display, Red, 0.4"
+F https://www.mouser.com/datasheet/2/216/ACPSA04-41SRWA-17406.pdf
+$ENDCMP
+#
+#End Doc Library

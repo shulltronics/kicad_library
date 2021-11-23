@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Resistor_TH_Eigth_Watt
+#
+DEF Resistor_TH_Eigth_Watt R 0 40 N N 1 F N
+F0 "R" -100 0 50 H V C CNN
+F1 "Resistor_TH_Eigth_Watt" -100 -50 50 H V C CNN
+F2 "Carsten_Resistors:R_Horizontal_7.62mmPitch" -100 0 50 H I C CNN
+F3 "" -100 0 50 H I C CNN
+DRAW
+S -40 -100 40 100 1 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Resistor_TH_Quarter_Watt
+#
+DEF Resistor_TH_Quarter_Watt R 0 40 N N 1 F N
+F0 "R" -100 0 50 H V C CNN
+F1 "Resistor_TH_Quarter_Watt" -100 -50 50 H V C CNN
+F2 "Carsten_Resistors:R_Horizontal_5.08mmPitch.kicad_mod" -100 0 50 H I C CNN
+F3 "" -100 0 50 H I C CNN
+DRAW
+S -40 -100 40 100 1 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

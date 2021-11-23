@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3052_2N3904_Transistor
+D BJT Transistor NPN 40V 200mA 300MHz 625mW Through Hole TO-92-3
+F https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf
+$ENDCMP
+#
+$CMP 3053_1N4148_Diode
+D Diode, Small Signal, 1N4148, THT DO-35
+F https://www.onsemi.cn/PowerSolutions/document/1N914-D.PDF
+$ENDCMP
+#
+$CMP 3072_2N7000
+D 0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92
+K N-Channel MOSFET Logic-Level
+F https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Particle_Photon
+F https://docs.particle.io/datasheets/wi-fi/photon-datasheet/
+$ENDCMP
+#
+#End Doc Library

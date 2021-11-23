@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3024_74HC595
+D Shift Register, 8-bit, Serial In Parallel Out, 16DIP
+F http://www.ti.com/lit/ds/symlink/sn74hc595.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1589476017008
+$ENDCMP
+#
+#End Doc Library

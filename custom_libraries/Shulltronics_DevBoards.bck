@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3022_OBD2_UART
+D OBDII to UART Interface Development Board
+F https://www.sparkfun.com/products/9555
+$ENDCMP
+#
+$CMP 3042_BME280_Breakout
+D Adafruit BME280 Breakout Board, SPI/I2C, 3-5V
+F https://www.adafruit.com/product/2652
+$ENDCMP
+#
+$CMP 3045_PowerBoost500
+D Single Cell LiPo Charger 500mA / 5V Boost Power Supply
+F https://www.adafruit.com/product/1944
+$ENDCMP
+#
+$CMP 3073_Touchscreen_Breakout
+D Adafruit Touch Screen Breakout Board for 4 pin 1.0mm FPC
+F https://www.adafruit.com/product/3575#technical-details
+$ENDCMP
+#
+#End Doc Library

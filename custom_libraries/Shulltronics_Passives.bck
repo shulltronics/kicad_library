@@ -1,0 +1,41 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3004_Resistor_THT_475_0.25W_1%
+F https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_MFR_1.pdf
+$ENDCMP
+#
+$CMP 3010_Cap_0.1uF_25V
+D Ceramic Cap, 0.1uF, 25V, Unpolarized
+F http://www.vishay.com/docs/45171/kseries.pdf
+$ENDCMP
+#
+$CMP 3010_Capacitor_0.1uF_25V_THT
+D Ceramic Cap, 0.1uF, 25V, Unpolarized
+F http://www.vishay.com/docs/45171/kseries.pdf
+$ENDCMP
+#
+$CMP 3016_Trimmer_Pot_10k
+D  10k Trimmer Potentiometer Bourns Series 3362
+F https://www.bourns.com/docs/Product-Datasheets/3362.pdf
+$ENDCMP
+#
+$CMP 3025_Resistor_SMD_470_0.125W_1%
+D SMD Resistor, 470 Ohms, 1/8W, 1%, 0402
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=9-1773463-9&DocType=DS&DocLang=English
+$ENDCMP
+#
+$CMP 3048_Switch_SPDT_RA
+D TH Slide Switch, Right Angle, 200mA, 30V
+F https://sten-eswitch-13110800-production.s3.amazonaws.com/system/asset/product_line/data_sheet/119/EG.pdf
+$ENDCMP
+#
+$CMP 3069_Cap_2.2uF_35V
+D 2.2uF Aluminum Electrolytic Capacitor, 35V, 3mm Diameter, 5mm Heigth, 2mm Pin Pitch
+F https://www.nichicon.co.jp/english/products/pdfs/e-uma.pdf
+$ENDCMP
+#
+$CMP 3070_Resistor_THT_10M_0.25W_5%
+F https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_MFR_1.pdf
+$ENDCMP
+#
+#End Doc Library

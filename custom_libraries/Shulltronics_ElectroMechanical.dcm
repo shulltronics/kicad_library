@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3051_Relay_SPDT_5A
+D Sparkfun Relay, JZC-11F, 5V Signal, 30VDC, 250VAC, 5A
+F https://docs.particle.io/assets/datasheets/makerkit/spdt-relay.pdf
+$ENDCMP
+#
+#End Doc Library
