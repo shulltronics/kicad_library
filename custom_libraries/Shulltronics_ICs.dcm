@@ -9,4 +9,9 @@ $CMP 3077_74HC14
 F https://www.ti.com/lit/ds/symlink/sn74hc14.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1610804401353
 $ENDCMP
 #
+$CMP 3092_MCP48FEB22_DAC
+D DAC, Dual 12-bit Outputs, SPI Interface
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005429B.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -20,4 +20,8 @@ $CMP 3085_MiniJack_Thonk_Vert
 F https://www.thonk.co.uk/shop/thonkiconn/
 $ENDCMP
 #
+$CMP 3096_USBC_RA_SMD
+F https://www.molex.com/pdm_docs/sd/2171790001_sd.pdf
+$ENDCMP
+#
 #End Doc Library

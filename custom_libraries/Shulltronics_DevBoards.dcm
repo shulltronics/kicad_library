@@ -20,4 +20,8 @@ D Adafruit Touch Screen Breakout Board for 4 pin 1.0mm FPC
 F https://www.adafruit.com/product/3575#technical-details
 $ENDCMP
 #
+$CMP 3097_TFT_Display_SPI
+F https://learn.adafruit.com/adafruit-1-14-240x135-color-tft-breakout/overview
+$ENDCMP
+#
 #End Doc Library
