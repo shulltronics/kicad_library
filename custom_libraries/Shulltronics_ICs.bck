@@ -5,4 +5,17 @@ D Shift Register, 8-bit, Serial In Parallel Out, 16DIP
 F http://www.ti.com/lit/ds/symlink/sn74hc595.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1589476017008
 $ENDCMP
 #
+$CMP 3077_74HC14
+F https://www.ti.com/lit/ds/symlink/sn74hc14.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1610804401353
+$ENDCMP
+#
+$CMP 3092_MCP48FEB22_DAC
+D DAC, Dual 12-bit Outputs, SPI Interface
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005429B.pdf
+$ENDCMP
+#
+$CMP 3098_THAT4305
+F https://www.mouser.com/datasheet/2/407/THAT_4305_Datasheet-273059.pdf
+$ENDCMP
+#
 #End Doc Library

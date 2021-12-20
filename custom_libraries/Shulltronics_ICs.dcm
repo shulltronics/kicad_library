@@ -14,4 +14,8 @@ D DAC, Dual 12-bit Outputs, SPI Interface
 F https://ww1.microchip.com/downloads/en/DeviceDoc/20005429B.pdf
 $ENDCMP
 #
+$CMP 3098_THAT4305
+F https://www.mouser.com/datasheet/2/407/THAT_4305_Datasheet-273059.pdf
+$ENDCMP
+#
 #End Doc Library

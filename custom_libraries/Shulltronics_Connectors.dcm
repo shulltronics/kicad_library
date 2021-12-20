@@ -24,4 +24,8 @@ $CMP 3096_USBC_RA_SMD
 F https://www.molex.com/pdm_docs/sd/2171790001_sd.pdf
 $ENDCMP
 #
+$CMP 4000_Header_Male_Vert_10pin_0.1in
+F https://www.mouser.com/datasheet/2/445/61301011121-1718147.pdf
+$ENDCMP
+#
 #End Doc Library
