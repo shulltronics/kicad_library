@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 2SK4017
-D MOSFET, N-Channel, 60V, 4V Thresh
-K transistor NMOS N-MOS N-MOSFET
-F https://people.ece.cornell.edu/land/courses/ece4760/labs/f2016/lab4_2SK4017.pdf
-$ENDCMP
-#
-#End Doc Library
