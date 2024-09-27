@@ -1051,6 +1051,14 @@
 				(hide yes)
 			)
 		)
+		(property "SPN" "3033"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(symbol "3033_Connector_SL_4pos_RA_0_1"
 			(rectangle
 				(start 11.43 3.81)
