@@ -138,7 +138,7 @@ for group in grouped:
     row.append( refs );
     row.append( len(group) )
     # Shulltronics addition: add formula for Google Sheets to pull mfg and mfg PN from inventory
-    row.append( "=FILTER('Parts Inventory'!G:H, 'Parts Inventory'!A:A=" + net.getGroupField(group, columns[6]) + ")" )
+    row.append( "=FILTER('Parts Inventory'!G:H, 'Parts Inventory'!A:A=" + net.getGroupField(group, columns[9]) + ")" )
     row.append( "" )  # Add two empty columns to account for the added data
     row.append( c.getValue() )
     #row.append( c.getLibName() + ":" + c.getPartName() )
